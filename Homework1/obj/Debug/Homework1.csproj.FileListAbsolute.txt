@@ -1,0 +1,8 @@
+C:\Users\avako\Desktop\ТЫ ТЕПЕРЬ ПРОГЕР\Lesson1\Homework1\bin\Debug\Homework1.exe.config
+C:\Users\avako\Desktop\ТЫ ТЕПЕРЬ ПРОГЕР\Lesson1\Homework1\bin\Debug\Homework1.exe
+C:\Users\avako\Desktop\ТЫ ТЕПЕРЬ ПРОГЕР\Lesson1\Homework1\bin\Debug\Homework1.pdb
+C:\Users\avako\Desktop\ТЫ ТЕПЕРЬ ПРОГЕР\Lesson1\Homework1\obj\Debug\Homework1.csproj.AssemblyReference.cache
+C:\Users\avako\Desktop\ТЫ ТЕПЕРЬ ПРОГЕР\Lesson1\Homework1\obj\Debug\Homework1.csproj.SuggestedBindingRedirects.cache
+C:\Users\avako\Desktop\ТЫ ТЕПЕРЬ ПРОГЕР\Lesson1\Homework1\obj\Debug\Homework1.csproj.CoreCompileInputs.cache
+C:\Users\avako\Desktop\ТЫ ТЕПЕРЬ ПРОГЕР\Lesson1\Homework1\obj\Debug\Homework1.exe
+C:\Users\avako\Desktop\ТЫ ТЕПЕРЬ ПРОГЕР\Lesson1\Homework1\obj\Debug\Homework1.pdb
